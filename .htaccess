@@ -1,0 +1,2 @@
+AuthName "Patron Database"
+AuthUserFile "/home/colora47/.htpasswds/public_html/pdb/passwd"

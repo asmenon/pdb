@@ -1,0 +1,151 @@
+
+     body {
+         width:95%;
+         font-family: 'Open Sans', serif;
+         font-size: 10px;
+	 background-color:#EFEFEF;
+      }
+     .ptables {
+         table-layout:fixed; 
+         margin:0 auto; 
+         overflow: hidden;
+         width:90%;
+         background-color:#ffffff;
+         border-radius:10px 10px 10px 10px; 
+         border:#fff 0.1px solid;
+     }
+    .pcellheads { 
+         font-family: "Open Sans","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Calibri,Lucida Sans, Tahoma, Verdana, Arial;
+         vertical-align:text-top;
+         background-color:#ffffcc;
+         table-layout:fixed;
+	 font-size:13px;
+     }
+    .pcellhighlight { 
+         font-family: "Open Sans","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Calibri,Lucida Sans, Tahoma, Verdana, Arial;
+         vertical-align:text-top;
+         background-color:#efefef;
+         table-layout:fixed;
+	 font-size:11px;
+     }
+    .pcells { 
+        font-family: "Open Sans",Calibri,Lucida Sans, Tahoma, Verdana, Arial;
+        background-color: #fafafa;
+        vertical-align:text-top;
+        text-align:left;
+        color: #000000;
+        font-weight: normal;
+	font-size:12px;
+        table-layout:fixed;
+        width:15%;
+        white-space: nowrap;
+
+        overflow: hidden;
+     }
+    .pcellsstrong { 
+        font-family: "Open Sans",Calibri,Lucida Sans, Tahoma, Verdana, Arial;
+        background-color: #EEE5DE;
+        vertical-align:text-top;
+        text-align:left;
+        color: #000000;
+        font-weight: bold;
+	font-size:12px;
+        table-layout:fixed;
+        width:15%;
+        white-space: nowrap;
+
+        overflow: hidden;
+     }
+    .pcellswrap { 
+        font-family: "Open Sans",Calibri,Lucida Sans, Tahoma, Verdana, Arial;
+        background-color: #fafafa;
+        vertical-align:text-top;
+        text-align:left;
+        color: #000000;
+        font-weight: normal;
+	font-size:12px;
+
+     }
+    .pcellsgray { 
+        font-family: "Open Sans",Calibri,Lucida Sans, Tahoma, Verdana, Arial;
+        background-color: #cccccc;
+        vertical-align:text-top;
+        text-align:left;
+        color: #000000;
+        font-weight: normal;
+	font-size:12px;
+        table-layout:fixed;
+        width:15%;
+        white-space: nowrap;
+
+        overflow: hidden;
+     }
+     h2 { 		
+        font-family:adobe-clean,"Open Sans","Baskerville","Open Sans","Lato","Inconsolata","Open Sans","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+        font-size:16px; 
+        color:#d61d1f;
+     }
+     h4 { 		
+       font-family:adobe-clean,"Open Sans","Baskerville","Open Sans","Lato","Inconsolata","Open Sans","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+       font-size:11px; 
+       color:#00000;
+     }
+
+    h5 { 		
+       font-family:adobe-clean,"Open Sans","Baskerville","Open Sans","Lato","Inconsolata","Open Sans","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+       font-size:9px; 
+       color:#00000;
+    }
+
+   h3 { 		
+      font-family:adobe-clean,"Open Sans","Baskerville","Open Sans","Lato","Inconsolata","Open Sans","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+      font-size:13px; 
+      color:green
+
+    }
+
+.pagination {
+    text-align: center;
+    margin: 20px
+}
+.pagination a, .pagination strong {
+    background: #fff;
+    display: inline-block;
+    margin-right: 3px;
+    padding: 4px 12px;
+    text-decoration: none;
+    line-height: 1.5em;
+    
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.pagination a:hover {
+    background-color: #666666;
+    color: #fff;
+}
+.pagination a:active {
+	    background: rgba(190, 190, 190, 0.75);
+}
+.pagination strong {
+    color: #fff;
+    background-color: #666666;
+}
+a:link {
+    color: #0645AD;
+}
+
+/* visited link */
+a:visited {
+    color: #0645AD;
+}
+
+/* mouse over link */
+a:hover {
+    color: #0645AD;
+}
+
+/* selected link */
+a:active {
+    color: #0645AD;
+}
